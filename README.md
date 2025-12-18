@@ -1,5 +1,4 @@
 # TINDER
-# **Prédire le départ des salariés d'IBM par Machine Learning**
 Analyse des facteurs déterminants dans l’acceptation d’un second rendez-vous en speed dating.
 
 ## *A. Méthodologie*  
